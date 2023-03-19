@@ -12,9 +12,9 @@ Reviews from Oct 1999 - Oct 2012 - 568,454 reviews
 
 260 users with > 50 reviews
 
-### Text files link : https://drive.google.com/file/d/14_-Jkd9Cj5Vxr08xCbpzA8dWYYzNu440/view
+#### Text files link : https://drive.google.com/file/d/14_-Jkd9Cj5Vxr08xCbpzA8dWYYzNu440/view
 
-Task here is to transform the given data(i.e. Text files) to tabular format(i.e. csv file). The columns in the table should be:
+#### Task here is to transform the given data(i.e. Text files) to tabular format(i.e. csv file). The columns in the table should be:
 
 Id - Unique row number
 
@@ -38,7 +38,7 @@ ReviewText - Text of the review
 
 NOTE - Helpfulness (fraction of users who found the review helpful) = HelpfulnessNumerator / HelpfulnessDenominator
 
-Exploratory data analysis:
+### Exploratory data analysis:
 
 Distribution of Ratings
 
@@ -51,7 +51,3 @@ Distribution of Helpfulness
 How does rating affect Helpfulness?
 
 How does word count vary by rating? Etc…
-
-Note - Using this blog (https://nycdatascience.com/blog/student-works/amazon-fine-foods-visualization/) written by Rob Castellano to understand the data analysis and how he generated insights (conclusion) from the visualizations.
-
-Build a model which takes the text review as input and predicts the rating of the review.
